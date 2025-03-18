@@ -1,4 +1,4 @@
-![snake gif](https://github.com/DarcMattz/DarcMattz/blob/output/github-snake-dark.svg)
+[comment]: <> (![snake gif](https://github.com/DarcMattz/DarcMattz/blob/output/github-snake-dark.svg))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarcMattz/DarcMattz/output/pacman-contribution-graph-dark.svg">
