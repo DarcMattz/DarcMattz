@@ -35,4 +35,4 @@
 
 ### 🎮 Game On!  
 Want to team up? Let's **collaborate!**  
-📩 **DM me:** [@DarcMattz](johnvirgilcarvajal@gmail.com)  
+📩 **DM me:** [@johnvirgilcarvajal@gmail.com](johnvirgilcarvajal@gmail.com)  
