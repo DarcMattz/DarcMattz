@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Hey there, I'm Jibee! 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=F7A90A&center=true&width=500&lines=Flutter+Developer;React.js+Learner;Gamifying+Education;Building+Fun+Apps!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=F7A90A&center=true&width=500&lines=Flutter+Developer;React.js+Learner;Gamifying+Education;Building+Fun+Apps!;UI+Designer" />
 </p>
 
 ---
