@@ -11,9 +11,12 @@
 ---
 
 ### 🏆 Achievements Unlocked  
-- ✅ Built **TinyTots**, a fun learning app for preschoolers  
-- ✅ Created **Math Quiz Adventure**, a math-based quiz app for kids  
-- 🔄 Currently **leveling up** my React.js skills  
+
+- ✅ Built **TinyTots** – A fun learning app for preschoolers using **Flutter**  
+- ✅ Created **Math Quiz Adventure** – A math-based quiz app for kids using **Flutter & SQLite**  
+- ✅ Developed a **Pokédex** using **React.js**  
+- ✅ Started building **Bee-Chat** – A real-time chat app using **React.js, Node.js, and Socket.io**  
+- 🔄 Currently **leveling up** my React.js skills
 
 ---
 
