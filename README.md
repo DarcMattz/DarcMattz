@@ -28,18 +28,6 @@
 
 ---
 
-### 📊 Stats & XP  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarcMattz&show_icons=true&theme=tokyonight" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarcMattz/DarcMattz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarcMattz/DarcMattz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DarcMattz/DarcMattz/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### 🎮 Game On!  
 Want to team up? Let's **collaborate!**  
 📩 **DM me:** [@Jibee](johnvirgilcarvajal@gmail.com)  
